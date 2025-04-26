@@ -42,9 +42,9 @@ You need a C++ compiler that supports C++11 (for convenience features like `std:
 
 ```bash
 g++ myshell.cpp -o myshell -std=c++11
+```
 
 ## Running
-
 After successful compilation, execute the shell from your terminal:
 
 ```bash
