@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a basic command-line interpreter (shell) in C++. Its primary purpose is to demonstrate an understanding of fundamental operating system concepts, particularly process management and interaction on POSIX-compliant systems (like Linux and macOS).
+Implemented a basic command-line interpreter (shell) in C++. Its primary purpose is to demonstrate fundamental operating system concepts, particularly process management and interaction on POSIX-compliant systems (like Linux and macOS).
 
 It provides a simple interface to execute commands, manage basic background processes, handle I/O redirection, and chain commands using pipes.
 
